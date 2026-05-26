@@ -1,0 +1,6 @@
+{
+  "name": "Mild Care Parents School",
+  "description": "High-converting interactive website for Mild Care Parents School, Munyonyo Kampala. Includes an enhanced parent portal, 360 virtual school tour, school readiness quiz, tuition expense calculator, programs overview, and enrollment tools.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
